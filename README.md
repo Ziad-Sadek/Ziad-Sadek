@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a Junior Front-End Developer with a Bachelor's degree in Accounting (B.A. in Accounting). My passion for coding and web development led me to pursue a career in tech, where I focus on creating responsive web designs and intuitive UI/UX experiences. 💻✨
+I'm a Junior Front-End Developer with a Bachelor's degree in Accounting. My passion for coding and web development led me to pursue a career in tech, where I focus on creating responsive web designs and intuitive UI/UX experiences. 💻✨
 
 In addition to my love for development, I’m also proud to be a member of the National Cycling Team of Egypt 🚴‍♂️🇪🇬. Being an athlete has taught me the value of discipline, teamwork, and perseverance—qualities I bring into every project I work on.
 
